@@ -1,4 +1,4 @@
-#include <stdio.h> //10845 ť //pass
+#include <stdio.h> //10845 큐 //pass
 #include <stdlib.h>
 
 int N;
