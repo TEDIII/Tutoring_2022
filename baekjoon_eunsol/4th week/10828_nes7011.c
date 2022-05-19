@@ -1,4 +1,4 @@
-#include <stdio.h> //10828 ½ºÅÃ //pass
+#include <stdio.h> //10828 ìŠ¤íƒ //pass
 #include <stdlib.h>
 
 int N;
