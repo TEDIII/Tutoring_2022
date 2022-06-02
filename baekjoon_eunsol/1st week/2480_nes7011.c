@@ -1,4 +1,4 @@
-#include <stdio.h> // 2480_ÁÖ»çÀ§ ¼¼°³ //pass
+#include <stdio.h> // 2480_ì£¼ì‚¬ìœ„ì„¸ê°œ //pass
 
 int a, b, c;
 int ans;
