@@ -1,4 +1,4 @@
-#include <stdio.h> //2439_º°Âï±â2 //pass
+#include <stdio.h> //2439_ë³„ì°ê¸°2 //pass
 
 int main() {
     int n, i, j, k;
@@ -6,7 +6,7 @@ int main() {
 
     for (i = 1; i <= n; i++) {
         for (j = 0; j < n - i; j++) {
-            printf(" "); // °ø¹éÂï±â
+            printf(" "); // ê³µë°±ì°ê¸°
         }
         for (k = 1; k <= i; k++) {
             printf("*");
