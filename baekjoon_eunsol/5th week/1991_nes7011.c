@@ -1,4 +1,4 @@
-#include <stdio.h> //1991_Æ®¸®¼øÈ¸ //fail
+#include <stdio.h> //1991_íŠ¸ë¦¬ìˆœíšŒ //fail
 #include <stdlib.h>
 
 int arr[27];
